@@ -76,3 +76,8 @@ cacheSolve <- function(x, ...) {
 ## [1,]      1    0    0
 ## [2,]      0    1    0
 ## [3,]      0    0    1
+## Acknowledgements: I have used some partial solutions to the problem from
+## from code presented on Stack Overflow as questions. I have amended and fixed
+## where necessary and I have a good understanding of how it works now.
+## I find this assignment to be a bit too advanced to expect a beginner
+## to solve from scratch without any help from online sources.
